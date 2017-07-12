@@ -13,7 +13,9 @@ Usage:
 	
 	
 UI improvments:
+
   Larger clickable surface area where the sliderBar jumps to the clicked position
+  
   Perpetually-highlighted rgb display for facile copying
 
 
